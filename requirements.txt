@@ -1,5 +1,5 @@
 pytorch
-cv2
+opencv
 matplotlib
 pandas
 numpy
